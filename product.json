@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "name": "aiman",
+        "imgUrl": "./image/imag_5.png",
+        "price": 100
+    },
+
+    {
+        "id":2,
+        "name": "aiman",
+        "imgUrl": "./image/imag_5.png",
+        "price": 150
+    },
+
+    {
+        "id":3,
+        "name": "aiman",
+        "imgUrl": "./image/imag_5.png",
+        "price": 200
+    },
+
+    {
+        "id":4,
+        "name": "aiman",
+        "imgUrl": "./image/imag_5.png",
+        "price": 300
+    }
+]
